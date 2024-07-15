@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\PigDie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C83A1D-F954-462C-9F85-3626A57FA5CA}|PigDie.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\PigDie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C83A1D-F954-462C-9F85-3626A57FA5CA}|PigDie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DD876-93C8-4A54-8ACE-A1A23EAA2EEC}|..\\ConstructorChaining\\ConstructorChaining.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\constructorchaining\\models\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DD876-93C8-4A54-8ACE-A1A23EAA2EEC}|..\\ConstructorChaining\\ConstructorChaining.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\constructorchaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ConstructorChaining\\Models\\Sample.cs",
+              "RelativeDocumentMoniker": "..\\ConstructorChaining\\Models\\Sample.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ConstructorChaining\\Models\\Sample.cs",
+              "RelativeToolTip": "..\\ConstructorChaining\\Models\\Sample.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:45:45.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ConstructorChaining\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConstructorChaining\\Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ConstructorChaining\\Program.cs",
+              "RelativeToolTip": "..\\ConstructorChaining\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:45:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\PigDie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\PigDie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wEMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:41:24.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

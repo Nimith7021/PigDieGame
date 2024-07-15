@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\bin\Debug\PigDie.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\bin\Debug\PigDie.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\bin\Debug\PigDie.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\obj\Debug\PigDie.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\obj\Debug\PigDie.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\obj\Debug\PigDie.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\PigDie\obj\Debug\PigDie.pdb
